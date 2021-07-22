@@ -12,8 +12,8 @@
 	</p>
 	<br>
 	<p>
-	DLL injection is technique that exploits the possibility to load external DLL file to process address space.
-	This technique use the possibility of loading a DLL to another process by 'injecting' a malicious DLL to a process.As a part of DLL mounting, the DLL can be abouse the victim process.<br><br>
+	DLL injection is a technique that exploits the possibility to load external DLL files to process address space.
+	This technique uses the possibility of loading a DLL to another process by 'injecting' a malicious DLL to a process. As a part of DLL mounting, the DLL can then abouse the victim process.<br><br>
 	In our program, we change the title bar of notepad (notepad.exe) using DLL injection<br>
   </p>
   <p align="center">
